@@ -1,0 +1,32 @@
+{
+  "PMR": {
+    "ModuleTitle": "Precious Materials Rework",
+    "DragonElementDialog": {
+      "Title": "Drachenelement wählen",
+      "Prompt": "Wähle den Energietyp für diesen Drachenhandwerk-Gegenstand:",
+      "Fire": "Feuer",
+      "Cold": "Kälte",
+      "Electricity": "Elektrizität",
+      "Acid": "Säure",
+      "Poison": "Gift"
+    },
+    "Warnings": {
+      "WyrootIncompatible": "Wyroot-Waffen benötigen eine hölzerne Schlagfläche (Keulen, Stäbe). Diese Waffe ist möglicherweise nicht kompatibel.",
+      "SingingSteelArmorType": "Singende Stahl-Rüstung kann nur aus Ketten- oder Kompositrüstung gefertigt werden. Plattenrüstung würde den Herzschlag des Trägers auf zerstörerische Stufen verstärken."
+    },
+    "Actions": {
+      "DestructiveCounter": "Zerstörerischer Konter",
+      "AbsorbLifePoint": "Lebenspunkt absorbieren",
+      "SilverReflection": "Silberreflexion",
+      "TrueSilverReflection": "Wahre Silberreflexion",
+      "SoulCounter": "Seelenkonter",
+      "ImprovedSoulCounter": "Verbesserter Seelenkonter",
+      "DispellingSlice": "Bannender Schnitt",
+      "ImprovedDispellingSlice": "Verbesserter Bannender Schnitt",
+      "ArmamentAcrossTime": "Rüstung durch die Zeit",
+      "AegisAcrossTime": "Aegis durch die Zeit",
+      "SpaceRendingSlash": "Raumspaltender Hieb",
+      "UnleashResonance": "Resonanz entfesseln"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "PMR": {
+    "ModuleTitle": "Precious Materials Rework",
+    "DragonElementDialog": {
+      "Title": "Choose Dragon Element",
+      "Prompt": "Select the energy type for this Dragoncraft item:",
+      "Fire": "Fire",
+      "Cold": "Cold",
+      "Electricity": "Electricity",
+      "Acid": "Acid",
+      "Poison": "Poison"
+    },
+    "Warnings": {
+      "WyrootIncompatible": "Wyroot weapons require a wooden striking surface (clubs, staves). This weapon may not be compatible.",
+      "SingingSteelArmorType": "Singing Steel Armor can only be made from Chain or Composite armor. Plate armor would amplify the wearer's heartbeat to destructive levels."
+    },
+    "Actions": {
+      "DestructiveCounter": "Destructive Counter",
+      "AbsorbLifePoint": "Absorb Life Point",
+      "SilverReflection": "Silver Reflection",
+      "TrueSilverReflection": "True Silver Reflection",
+      "SoulCounter": "Soul Counter",
+      "ImprovedSoulCounter": "Improved Soul Counter",
+      "DispellingSlice": "Dispelling Slice",
+      "ImprovedDispellingSlice": "Improved Dispelling Slice",
+      "ArmamentAcrossTime": "Armament Across Time",
+      "AegisAcrossTime": "Aegis Across Time",
+      "SpaceRendingSlash": "Space-Rending Slash",
+      "UnleashResonance": "Unleash Resonance"
+    }
+  }
+}
